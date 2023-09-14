@@ -10,7 +10,6 @@ A simple dice game built with HTML, CSS, and JavaScript.
   - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -44,10 +43,6 @@ These instructions will help you set up and run the game on your local machine.
 ## Contributing
 
 If you'd like to contribute, please fork the repository and then create a pull request. You can also open an issue for any bugs or feature requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
